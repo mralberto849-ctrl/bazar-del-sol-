@@ -7,7 +7,7 @@ cosas de segunda pero de muy buena calidad
 </head>
 <body>
   <h1>¡Hola mundo!</h1>
-  <p>Mi página en GitHub Pages 🚀</p>
+  <p>BAZAR DEL SOL(TIANGUIS HECTOS ESPINO)</p>
 </body>
 </html>
 
